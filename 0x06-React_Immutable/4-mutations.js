@@ -8,6 +8,7 @@ export const map = Map({
   4: 'Oliver',
   5: 'Jacob',
   6: 'Lucas',
+  
 });
 
 export const map2 = map.withMutations((values) => {
